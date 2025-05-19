@@ -1,14 +1,16 @@
 ##Gerador de Tabuada
 
+
 Projeto realizado com o intuito de praticar e aprimorar técnicas de HTML, CSS e JavaScript, envolvendo manipulação de dados recebidos por input com JavaScript,prática de estilização CSS envolvendo Flexbox, responsividade e bom contraste de cores e estruturação de código HTML limpo e bem organizado.
 
 O Gerador funciona de maneira simples : o usuário deve colocar o número a ser multiplicado("input informe o número:"), até quando ele será multiplicado("input multiplicar até:") e clicar em gerar, gerando assim a tabuada. É possível utilizar números tanto positivos quanto negativos.
 
-Dentre os principais desafios enfrentados na criação do site estão :
 
-Trazer responsividade de layout para diferentes tipos de tela
-Gerar tabuadas mesmo quando os valores informados pelo usuário são negativos
-Trabalhar com a junção do HTML e JavaScript.
+- Trazer responsividade de layout para diferentes tipos de tela
+- Gerar tabuadas mesmo quando os valores informados pelo usuário são negativos 
+- Trabalhar com a junção do HTML e JavaScript.
+
+
 ##Reponsividade:
 
 Para a responsividade,optei por trabalhar com flexbox,o que facilitou bastante o processo pois precisei apenas ajustar tamanhos.
@@ -32,3 +34,4 @@ Sobre a junção de HTML com JavaScript,precisei recorrer a ferramenta ChatGPT p
 Extra : O site pode ser utilizado para auxiliar jovens e principalmente crianças na aprendizagem de matemática básica,com multiplicação envolvendo números negativos e positivos, tudo isso de forma rápida e da forma que quiser.
 
 ##Demonstração do Projeto: (./assets/GeradorDeTabuada.gif)
+
