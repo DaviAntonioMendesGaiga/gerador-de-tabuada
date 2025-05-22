@@ -5,7 +5,7 @@ Projeto realizado com o intuito de praticar e aprimorar técnicas de HTML, CSS e
 
 O Gerador funciona de maneira simples : o usuário deve colocar o número a ser multiplicado("input informe o número:"), até quando ele será multiplicado("input multiplicar até:") e clicar em gerar, gerando assim a tabuada. É possível utilizar números tanto positivos quanto negativos.
 
-Dentre os principais desafios enfrentados estão:
+## Principais desafios:
 
 - Trazer responsividade de layout para diferentes tipos de tela
 - Gerar tabuadas mesmo quando os valores informados pelo usuário são negativos 
