@@ -37,3 +37,7 @@ Extra : O site pode ser utilizado para auxiliar jovens e principalmente criança
 ## Demonstração do Projeto: 
 ![Demonstração](./assets/GeradorDeTabuada.gif)
 
+## Acesse o projeto online:
+
+[Clique aqui para acessar o Gerador de Tabuada](https://gerador-de-tabuada-nu.vercel.app/)
+
